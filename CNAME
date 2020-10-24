@@ -1,1 +1,5 @@
-moonmates.com
+$ dig WWW.MOONMATES:COM +nostats +nocomments +nocmd
+    > ;WWW.MOONMATES:COM.                     IN      A
+    > WWW.MOONMATES:COM.              3592    IN      CNAME   MOONMATES.github.io.
+    > MOONMATES.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
+    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
