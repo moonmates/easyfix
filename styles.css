@@ -31,6 +31,10 @@ i {
   padding: 5px;
 }
 
+#youtubeVideo {
+  padding: 8px;
+}
+
 #bandfoto {
   width: 50%;
   z-index: -1;
