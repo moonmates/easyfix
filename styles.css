@@ -57,6 +57,11 @@ a {
   z-index: -1;
   overflow: scroll;
 }
+#singlecover {
+  width: 50%;
+  z-index: -1;
+  overflow: scroll;
+}
 #icons {
   text-align: right;
   float: right;
