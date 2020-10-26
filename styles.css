@@ -39,6 +39,9 @@ a {
 
 #content {
   padding: 30px;
+  /* padding-left: 100px;
+    padding-right: 100px;
+    */  
 }
 
 #youtubeVideo {
@@ -98,4 +101,7 @@ a {
   text-size-adjust: 90%;
   text-align: justify;
   padding: 30px;
+  /* padding-left: 100px;
+    padding-right: 100px;
+    */
 }
